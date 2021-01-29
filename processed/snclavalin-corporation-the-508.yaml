@@ -1,0 +1,14 @@
+---
+names:
+- SNC-LAVALIN CORPORATION (THE)
+country: United States
+source: wb-data
+ref_number: 302321
+ref_type: World Bank SUPP ID
+remark: Controlled Affiliate of a Sanctioned Entity.
+address:
+- street: CORPORATION TRUST CENTER, 1209 ORANGE STREET
+  city: WILMINGTON
+  state: 
+  country: United States
+  zip: '19801'
