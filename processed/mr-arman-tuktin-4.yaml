@@ -3,13 +3,12 @@ names:
 - MR. ARMAN TUKTIN
 country: Kazakhstan
 source: wb-data
-ref_number: 328822
+ref_number: 330142
 ref_type: World Bank SUPP ID
 remark: Procurement Guidelines, 1.14(a)(i)
 address:
-- street: C/O TOO DISTRILAB, 17/1 AL FARABI AVENUE, OFFICE 13, BUSINESS CENTER NURLY
-    TAU, 050059
-  city: ALMATY
+- street: NUSUPBEKOV STR. 49
+  city: ALMATY, 050016
   state: 
   country: Kazakhstan
   zip: 
