@@ -3,12 +3,12 @@ names:
 - HG MARKET GROUP CORP.
 country: Barbados
 source: wb-data
-ref_number: 440333
+ref_number: 400230
 ref_type: World Bank SUPP ID
-remark: 'Cross Debarment: IDB'
+remark: Controlled Affiliate of a Sanctioned Entity.
 address:
-- street: CARLETON COURT, HIGH STREET, BRIDGETOWN
-  city: ST. MICHAEL
+- street: 2ND FLOOR “CARLETON COURT” HIGH STREET, BRIDGETOWN, ST.
+  city: BARBADOS
   state: 
   country: Barbados
   zip: 
