@@ -3,13 +3,12 @@ names:
 - CONSTRUCTORA ODEBRECHT CHILE S.A.
 country: Chile
 source: wb-data
-ref_number: 400240
+ref_number: 440334
 ref_type: World Bank SUPP ID
-remark: Controlled Affiliate of a Sanctioned Entity.
+remark: 'Cross Debarment: IDB'
 address:
-- street: AV. LIBERTADOR BERNARDO O´HIGGINS N° 292, OFICINA 21 – SANTIAGO CENTRO –
-    SANTIAGO DE CHILE
-  city: 
+- street: AV. LIBERTADOR BERNARDO O'HIGGINS 292 OFICINA 21, SANTIAGO CENTRO
+  city: SANTIAGO DE CHILE
   state: 
   country: Chile
   zip: 
