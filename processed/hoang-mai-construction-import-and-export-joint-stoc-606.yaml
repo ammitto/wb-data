@@ -3,13 +3,13 @@ names:
 - HOANG MAI CONSTRUCTION IMPORT AND EXPORT JOINT STOCK COMPANY
 country: Vietnam
 source: wb-data
-ref_number: 582638
+ref_number: 582639
 ref_type: World Bank SUPP ID
 remark: 'Cross Debarment: ADB'
 address:
-- street: NO. 14, TT6B URBAN WEST NAM LINH DAM, HOANG MAI (SỐ 14, TT6B KHU ĐÔ THỊ
-    TÂY NAM LINH ĐÀM, HOÀNG MAI)
-  city: HANOI 100000 (HÀ NỘI)
+- street: NO. 2/20, LANE 255, HOPE STREET (SỐ 2/20, NGÕ 255, PHỐ VỌNG) DONG TAM WARD,
+    HAI BA TRUNG DISTRICT
+  city: HANOI
   state: 
   country: Vietnam
   zip: 
