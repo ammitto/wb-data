@@ -3,12 +3,12 @@ names:
 - CONSTRUCTORA NORBERTO ODEBRECHT DE COLOMBIA S.A.S.
 country: Colombia
 source: wb-data
-ref_number: 440335
+ref_number: 400241
 ref_type: World Bank SUPP ID
-remark: 'Cross Debarment: IDB'
+remark: Controlled Affiliate of a Sanctioned Entity.
 address:
-- street: CALLE 93 NO. 11A-28 OFICINA 301
-  city: BOGOTA
+- street: CALLE 93 Nº 11 A – 28, ED.CAPITAL PARK,  OFICINA 301, BOGOTA
+  city: D.C.
   state: 
   country: Colombia
   zip: 
