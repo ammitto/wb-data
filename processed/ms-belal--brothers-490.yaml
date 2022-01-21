@@ -3,12 +3,12 @@ names:
 - M/S BELAL & BROTHER’S
 country: Bangladesh
 source: wb-data
-ref_number: 582646
+ref_number: 582645
 ref_type: World Bank SUPP ID
 remark: 'Cross Debarment: ADB'
 address:
-- street: 46/1, EAST TETJURI BAZAR TEJGAON
-  city: DHAKA-215
+- street: 'HOUSE #407 (1ST FLOOR), ROAD #39, NEW DOHS, MOHAKHALI'
+  city: DHAKA 1206
   state: 
   country: Bangladesh
   zip: 
