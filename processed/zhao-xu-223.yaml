@@ -3,12 +3,12 @@ names:
 - ZHAO XU
 country: China
 source: wb-data
-ref_number: 476999
+ref_number: 538221
 ref_type: World Bank SUPP ID
 remark: 'Cross Debarment: ADB'
 address:
-- street: NO.6 EPANG 1ST ROAD
-  city: WEIYANG DISTRICT, XI’AN CITY 710000
+- street: NO. 6 EFANG FIRST ROAD, WEIYANG DISTRICT
+  city: XI'AN CITY
   state: 
   country: China
   zip: 
