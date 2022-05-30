@@ -3,12 +3,11 @@ names:
 - HANOITC EXPERT JOINT STOCK COMPANY
 country: Vietnam
 source: wb-data
-ref_number: 340932
+ref_number: 343426
 ref_type: World Bank SUPP ID
 remark: Para. 1.22(a)(ii), May 2010 Consultant Guidelines
 address:
-- street: 4TH FLOOR, BUILDING 29T2, HOANG DAO THUY STREET, TRUNG HOA WARD, CAU GIAY
-    DISTRICT
+- street: NO 38 KIM MA STREET, BA DINH DISTRICT
   city: HANOI
   state: 
   country: Vietnam
