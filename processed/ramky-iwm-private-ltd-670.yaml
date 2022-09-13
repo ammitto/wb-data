@@ -1,15 +1,14 @@
 ---
 names:
-- 'HYDERABAD RDF WTE PRIVATE LIMITED (CORPORATE ID NUMBER: U90002TG2022PTC164392)'
+- RAMKY IWM PRIVATE LTD.
 country: India
 source: wb-data
-ref_number: 688937
+ref_number: 692018
 ref_type: World Bank SUPP ID
 remark: Controlled Affiliate of a Sanctioned Entity.
 address:
 - street: LEVEL 11B, AUROBINDO GALAXY, HYDERABAD KNOWLEDGE CITY, HITECH CITY ROAD
-    HYDERABAD 500081
-  city: TELANGANA
+  city: HYDERABAD 500081 TELANGANA
   state: 
   country: India
   zip: 
