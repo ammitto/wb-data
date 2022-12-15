@@ -21,10 +21,10 @@ jobs:
         with:
           repository: ammitto/adapters
           path: adapters
-      - name: Use Ruby
-        uses: actions/setup-ruby@v1
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: ${{ matrix.ruby }}
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       - name: Update gems
         run: |
           cd adapters
