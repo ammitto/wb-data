@@ -3,12 +3,12 @@ names:
 - MR. LUU DUC TUAN
 country: Viet Nam
 source: wb-data
-ref_number: 595439
+ref_number: 595440
 ref_type: World Bank SUPP ID
 remark: 'Cross Debarment: ADB'
 address:
-- street: XUAN TAN WARD, XUAN THANH COMMUNE, YEN THANH DISTRICT
-  city: NGHE AN PROVINCE
+- street: NHA BA DOAN THI TAM, XOM TAN XUAN
+  city: COMMUNE XUAN THANH, DISTRICT YEN THANH
   state: 
   country: Viet Nam
   zip: 
