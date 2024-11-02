@@ -7,8 +7,8 @@ ref_number: 312040
 ref_type: World Bank SUPP ID
 remark: Procurement Guidelines, 1.14(a)(ii)
 address:
-- street: ''
-  city: ''
-  state: ''
+- street: 
+  city: 
+  state: 
   country: China
-  zip: ''
+  zip: 

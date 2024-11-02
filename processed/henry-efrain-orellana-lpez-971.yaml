@@ -9,6 +9,6 @@ remark: 'Cross-Debarment: IDB'
 address:
 - street: 5TA AVENIDA 5-55 EDIFICIO EUROPLAZA, ZONA 14, OFICINA 301
   city: TORRE A CIUDAD DE GUATEMALA
-  state: ''
+  state: 
   country: Guatemala
-  zip: ''
+  zip: 

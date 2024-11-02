@@ -7,8 +7,8 @@ ref_number: 112904
 ref_type: World Bank SUPP ID
 remark: Consultant Guidelines 1.25(a)(i)
 address:
-- street: ''
+- street: 
   city: STOCKHOLM
-  state: ''
+  state: 
   country: Sweden
-  zip: ''
+  zip: 

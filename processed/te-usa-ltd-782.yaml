@@ -1,0 +1,14 @@
+---
+names:
+- T.E. USA, LTD.
+country: United States
+source: wb-data
+ref_number: 845601
+ref_type: World Bank SUPP ID
+remark: Controlled Affiliate of a Sanctioned Entity
+address:
+- street: 99 TULIP AVE
+  city: FLORAL PARK
+  state: 
+  country: United States
+  zip: '11001'

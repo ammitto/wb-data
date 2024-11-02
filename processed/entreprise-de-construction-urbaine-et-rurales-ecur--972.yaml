@@ -8,7 +8,7 @@ ref_type: World Bank SUPP ID
 remark: 'Cross-Debarment: AFDB'
 address:
 - street: AMDALLAYE- RUE PAVÉE, FACE À LA MAIRIE
-  city: ''
-  state: ''
+  city: 
+  state: 
   country: Mali
-  zip: ''
+  zip: 

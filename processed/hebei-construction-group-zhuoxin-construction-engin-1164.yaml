@@ -10,6 +10,6 @@ address:
 - street: ROOM 112, COMPLEX BUILDING 1, HENGSHUI TECHNOLOGY VALLEY, NO. 1999, YANGYUAN
     EAST ROAD, HIGH-TECH ZONE
   city: HENGSHUI CITY, HEBEI PROVINCE
-  state: ''
+  state: 
   country: China
-  zip: ''
+  zip: 

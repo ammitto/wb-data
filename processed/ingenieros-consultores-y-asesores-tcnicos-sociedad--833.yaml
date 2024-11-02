@@ -10,6 +10,6 @@ address:
 - street: COLONIA HATO DE ENMEDIO, SECTOR 8, BLOQUE 108, CASA 3902, CALLE PRINCIPAL,
     IN FRONT OF HOSPITAL SAN JORGE, SAME PLACE AS HOTEL LA ESTANCIA.
   city: TEGUCIGALPA
-  state: ''
+  state: 
   country: Honduras
-  zip: ''
+  zip: 

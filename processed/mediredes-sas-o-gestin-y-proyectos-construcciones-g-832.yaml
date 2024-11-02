@@ -9,6 +9,6 @@ remark: 'Cross Debarment: IDB'
 address:
 - street: CALLE 64 NO. 53-25, LOCALES 1 Y 10
   city: BARRANQUILLA
-  state: ''
+  state: 
   country: Colombia
-  zip: ''
+  zip: 

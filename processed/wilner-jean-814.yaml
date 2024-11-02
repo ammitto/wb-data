@@ -9,6 +9,6 @@ remark: 'Cross Debarment: IDB'
 address:
 - street: 19, RUE DESRAVINES, ROUTE MARIN, PLAINE DU CUL DE SAC
   city: PORT-AU-PRINCE
-  state: ''
+  state: 
   country: Haiti
-  zip: ''
+  zip: 

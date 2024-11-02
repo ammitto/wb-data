@@ -7,8 +7,8 @@ ref_number: 112857
 ref_type: World Bank SUPP ID
 remark: Procurement Guidelines 1.15(a)(i) & (ii)
 address:
-- street: ''
+- street: 
   city: LONDON
-  state: ''
+  state: 
   country: United Kingdom
-  zip: ''
+  zip: 

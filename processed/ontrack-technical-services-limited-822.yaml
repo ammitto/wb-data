@@ -9,6 +9,6 @@ remark: 'Cross Debarment: AfDB'
 address:
 - street: PLOT 1, KIBUGA BLOCK, MENGO, P.O BOX 75101
   city: KAMPALA
-  state: ''
+  state: 
   country: Uganda
-  zip: ''
+  zip: 

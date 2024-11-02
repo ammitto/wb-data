@@ -3,12 +3,12 @@ names:
 - URALKOTLOSERVICE PKF ZAO (TAMBOV)
 country: Russian Federation
 source: wb-data
-ref_number: 189692
+ref_number: 189691
 ref_type: World Bank SUPP ID
 remark: Procurement Guidelines, 1.15(a)(ii)
 address:
-- street: 7A SHIROKAYA STREET, 390218
+- street: 1 KRASNOARMEISKAYA SQUARE, 392023
   city: TAMBOV
-  state: ''
+  state: 
   country: Russian Federation
-  zip: ''
+  zip: 

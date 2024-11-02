@@ -9,6 +9,6 @@ remark: 'Cross-Debarment: IDB'
 address:
 - street: URDESA, CALLE 2A CASA NO. 714 A, ENTRE FICUS Y GUAYACANES
   city: GUAYAQUIL
-  state: ''
+  state: 
   country: Ecuador
-  zip: ''
+  zip: 

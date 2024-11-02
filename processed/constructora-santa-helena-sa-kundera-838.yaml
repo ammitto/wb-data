@@ -9,6 +9,6 @@ remark: 'Cross Debarment: IDB'
 address:
 - street: COLONIA MIRAMONTES, CALLE PRINCIPAL, EDIFICIO GRACIELA, APTO. NO. 5
   city: TEGUCIGALPA
-  state: ''
+  state: 
   country: Honduras
-  zip: ''
+  zip: 

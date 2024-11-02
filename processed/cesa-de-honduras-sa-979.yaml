@@ -9,6 +9,6 @@ remark: 'Cross Debarment: IDB'
 address:
 - street: CALLE 50 Y ESQUINA CON ELVIRA MÉNDEZ, TORRE FINANCIERA, PISO 35
   city: PANAMA CITY
-  state: ''
+  state: 
   country: Honduras
-  zip: ''
+  zip: 

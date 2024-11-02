@@ -9,7 +9,7 @@ remark: 'Cross Debarment: ADB'
 address:
 - street: ROOM 619, NORTH BUILDING, KEYU PIONEER PARK, BUILDING 1, NO 5, INDUSTRIAL
     ROAD, TAIYUANXUEFU PARK, SHANXI COMPREHENSIVE REFORM DEMONSTRATION
-  city: ''
-  state: ''
+  city: 
+  state: 
   country: China
-  zip: ''
+  zip: 
