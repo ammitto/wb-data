@@ -1,0 +1,14 @@
+---
+names:
+- ULIFE AMÉRICA CENTRAL S.A.
+country: Panama
+source: wb-data
+ref_number: 658735
+ref_type: World Bank SUPP ID
+remark: 'Cross Debarment: IDB'
+address:
+- street:
+  city:
+  state:
+  country: Panama
+  zip:

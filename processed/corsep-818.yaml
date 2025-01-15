@@ -1,0 +1,15 @@
+---
+names:
+- CORSEP
+country: Guatemala
+source: wb-data
+ref_number: 362995
+ref_type: World Bank SUPP ID
+remark: 'Cross-Debarment: IDB'
+address:
+- street: KM. 19.3 CARRETERA VILLA CANALES, 5 AVENIDA 1-52, CAÑADAS DEL RIO COLONIA,
+    MUNICIPIO SAN MIGUEL PETAPA
+  city: DEPARTAMENTO DE GUATEMALA
+  state:
+  country: Guatemala
+  zip:

@@ -1,0 +1,14 @@
+---
+names:
+- EVSIS AMERICA LLC
+country: United States
+source: wb-data
+ref_number: 874221
+ref_type: World Bank SUPP ID
+remark: Controlled Affiliate of a Sanctioned Entity.
+address:
+- street: '100 WEST BROADWAY, OFFICE #04-111'
+  city: LONG BEACH
+  state:
+  country: United States
+  zip: '90802'

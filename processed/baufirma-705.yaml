@@ -1,0 +1,14 @@
+---
+names:
+- BAUFIRMA
+country: Guatemala
+source: wb-data
+ref_number: 194134
+ref_type: World Bank SUPP ID
+remark: 'Cross Debarment: IDB'
+address:
+- street: 10A AVENIDA 2-18, ZONA 15, COLONIA TUCUN UMAN,
+  city: GUATEMALA CITY (CUIDAD DE GUATEMALA)
+  state:
+  country: Guatemala
+  zip:
