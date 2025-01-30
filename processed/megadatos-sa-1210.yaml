@@ -1,0 +1,14 @@
+---
+names:
+- MEGADATOS S.A.
+country: Ecuador
+source: wb-data
+ref_number: 941201
+ref_type: World Bank SUPP ID
+remark: 'Cross Debarment: IDB'
+address:
+- street: NÚÑEZ DE VELA Y ATAHUALPA NO. E3-13 BARRIO LA CAROLINA
+  city: QUITO
+  state:
+  country: Ecuador
+  zip:

@@ -1,0 +1,15 @@
+---
+names:
+- TELCONET S.A.
+country: Ecuador
+source: wb-data
+ref_number: 941180
+ref_type: World Bank SUPP ID
+remark: 'Cross Debarment: IDB'
+address:
+- street: AVENIDA DR. LUIS ORRANTÍA CORNEJO Y AVENIDA KENNEDY NORTE MANZANA 109, SOLAR
+    2, DIAGONAL IGLESIA SAN GABRIEL CONDOMINIO HERMANOS MORLA
+  city: GUAYAQUIL
+  state:
+  country: Ecuador
+  zip:
