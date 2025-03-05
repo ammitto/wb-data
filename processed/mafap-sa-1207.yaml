@@ -1,0 +1,14 @@
+---
+names:
+- MAFAP S.A.
+country: Argentina
+source: wb-data
+ref_number: 952518
+ref_type: World Bank SUPP ID
+remark: 'Cross Debarment: IDB'
+address:
+- street: SAN MARTÍN 749, ANDALGALÁ C.P.4740
+  city: CATAMARCA
+  state:
+  country: Argentina
+  zip:
