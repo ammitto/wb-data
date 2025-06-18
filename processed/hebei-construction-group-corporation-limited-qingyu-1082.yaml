@@ -3,12 +3,12 @@ names:
 - HEBEI CONSTRUCTION GROUP CORPORATION LIMITED QINGYUAN BRANCH
 country: China
 source: wb-data
-ref_number: 888223
+ref_number: 888694
 ref_type: World Bank SUPP ID
 remark: 'Cross Debarment: ADB'
 address:
-- street: 2-3/F, NO 22, SECOND ROAD, GU CITY, SONGYUAN STREET, QINGYUAN COUNTY,
-  city: LISHUI CITY, ZHEJIANG PROVINCE.
+- street: NO 388, WEST DEVELOPMENT ROAD, QINGYUAN DISTRICT
+  city: BAODING CITY
   state:
   country: China
   zip:
