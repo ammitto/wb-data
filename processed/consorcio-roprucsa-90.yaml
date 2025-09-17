@@ -3,12 +3,13 @@ names:
 - CONSORCIO ROPRUCSA
 country: Peru
 source: wb-data
-ref_number: 323491
+ref_number: 325089
 ref_type: World Bank SUPP ID
 remark: Procurement Guidelines, 1.14(a)(ii)
 address:
-- street: JR. CONDESUYO 549,A 3ER PISO
-  city: CERCADO DE LIMA
+- street: C/O ROPRUCSA CONTRATISTA GENERALES S.A., AV. NARANJAL NO. 543, URBANIZACION
+    NARANJAL, DISTRITO DE LOS OLIVOS 39
+  city: LIMA
   state:
   country: Peru
   zip:
