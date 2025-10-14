@@ -3,13 +3,12 @@ names:
 - HUNAN CONSTRUCTION GROUP CO., LTD.
 country: China
 source: wb-data
-ref_number: 321732
+ref_number: 324856
 ref_type: World Bank SUPP ID
 remark: Procurement Guidelines, 1.14(a)(ii)
 address:
-- street: 'LAST KNOWN ADDRESS: 70 NORTH CHEZHAN ROAD, WAN XIANG XIN TIAN BUILDING,
-    FURONG DISTRICT'
-  city: CHANGSHA, HUNAN 410007
+- street: LAST KNOWN ADDRESS:23 CHENGNANZHONG ROAD, RONGAN BUILDING 5TH FLOOR, CHANGSHA
+  city: HUNAN
   state:
   country: China
   zip:
