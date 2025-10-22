@@ -1,14 +1,14 @@
 ---
 names:
 - ENGLOSER, INC.
-country: Colombia
+country: United States
 source: wb-data
-ref_number: 549836
+ref_number: 550328
 ref_type: World Bank SUPP ID
 remark: Controlled Affiliate of a Sanctioned Entity
 address:
 - street:
-  city:
+  city: AUSTIN
   state:
-  country: Colombia
-  zip:
+  country: United States
+  zip: '78759'
