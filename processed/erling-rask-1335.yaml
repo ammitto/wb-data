@@ -1,0 +1,14 @@
+---
+names:
+- ERLING RASK
+country: Denmark
+source: wb-data
+ref_number: 1046771
+ref_type: World Bank SUPP ID
+remark: 'Cross Debarment: IDB'
+address:
+- street: LADEGAARDSVEJ , 2770
+  city: KASTRUP
+  state:
+  country: Denmark
+  zip:
