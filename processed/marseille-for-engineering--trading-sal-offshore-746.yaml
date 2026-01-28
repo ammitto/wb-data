@@ -1,14 +1,14 @@
 ---
 names:
 - MARSEILLE FOR ENGINEERING & TRADING S.A.L. OFFSHORE
-country: Jordan
+country: Lebanon
 source: wb-data
-ref_number: 857016
+ref_number: 856975
 ref_type: World Bank SUPP ID
 remark: Corrupt Practice
 address:
-- street: OFFICE 605, BUILDING 53, ABDULLAH GHOSHEH STREET 3170
-  city: AMMAN 11821
+- street: BADARO STREET, YOUNES BUILDING, FIRST FLOOR
+  city: BEIRUT
   state:
-  country: Jordan
+  country: Lebanon
   zip:
